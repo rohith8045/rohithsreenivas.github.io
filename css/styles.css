@@ -1,0 +1,45 @@
+html{
+  box-sizing: border-box;
+}
+*, *:before, *:after{
+  box-sizing: inherit;
+}
+.div1{
+  text-align: center;
+  line-height: 2.5em;
+  padding: 10px;
+}
+.outer{
+  background: lavender;
+  padding: 5px;
+  text-align: center;
+}
+.outer1{
+  background: lavender;
+  padding: 5px;
+  text-align: center;
+}
+.inner1{
+  background:lavender;
+  padding: 5px;
+  text-align: justify;
+}
+nav{
+
+  text-align: center;
+  font-size: 0;
+}
+nav a{
+  text-decoration: none;
+  color: white;
+  background: ORCHID;
+  padding: 5px;
+  display: inline-block;
+  width: 33%;
+  font-size: 1rem;
+}
+.h1{
+  font-size: 240px;
+  font-weight: 300;
+  color: #236FB2;
+}
